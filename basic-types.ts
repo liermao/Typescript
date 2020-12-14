@@ -1,0 +1,11 @@
+let isDone: boolean = false;
+let age: number = 10;
+let firstName: string = 'vick';
+let u: undefined = undefined;
+let n: null = null;
+let num: number = undefined;
+let not: any = 4;
+not = 'lidaye jiadao';
+not = true;
+not.myName;
+not.getName();
