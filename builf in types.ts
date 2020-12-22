@@ -18,3 +18,4 @@ let allLis = document.querySelectorAll('li')
 document.addEventListener('click', (e) => {
     e.preventDefault()
 })
+
